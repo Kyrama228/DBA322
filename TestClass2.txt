@@ -1,0 +1,7 @@
+class TestClass2
+{
+void Info(string ShowFirstName, string ShowLastName, , string ShowJob, int ShowAge)
+	{
+	Console.Write(ShowFirstName, ShowLastName, ShowJob, ShowAge);
+	}
+}
